@@ -1,2 +1,2 @@
-# WGCNA
-Scripts to perform WGCNA on RNA-seq dataset.
+# RNA-seq
+Scripts to perform bioinformatic analys on RNA-seq dataset.
